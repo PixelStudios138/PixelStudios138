@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @PixelStudios138
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Slap
-- 📫 How to reach me pixel@dreamspheregames.com
-- ⚡ Fun fact: I am the developer of the Beaniverse and Slap series. I do all the programming and composing for my games
+Hi! Welcome to the official Pixel Studios github account.
+
+Here you'll find the source code for games such as Beaniverse and Slap. Enjoy!
 
 <!---
 PixelStudios138/PixelStudios138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
